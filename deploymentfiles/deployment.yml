@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: fbcont
-          image: devopshubg333/batch14:pythonapp
+          image: bharath122/batch14:amazonlinux_git_cont
           ports:
             - containerPort: 8080
 
